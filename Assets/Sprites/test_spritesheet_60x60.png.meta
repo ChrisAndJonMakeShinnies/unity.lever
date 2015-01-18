@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: d36bdb42b0f7fe241b229e10dd41d4d3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: test_spritesheet_60x60_0
+    21300002: test_spritesheet_60x60_1
+    21300004: test_spritesheet_60x60_2
+    21300006: test_spritesheet_60x60_3
+    21300008: test_spritesheet_60x60_4
+    21300010: test_spritesheet_60x60_5
+    21300012: test_spritesheet_60x60_6
+    21300014: test_spritesheet_60x60_7
+    21300016: test_spritesheet_60x60_8
+    21300018: test_spritesheet_60x60_9
+    21300020: test_spritesheet_60x60_10
+    21300022: test_spritesheet_60x60_11
+    21300024: test_spritesheet_60x60_12
+    21300026: test_spritesheet_60x60_13
+    21300028: test_spritesheet_60x60_14
+    21300030: test_spritesheet_60x60_15
+    21300032: test_spritesheet_60x60_16
+    21300034: test_spritesheet_60x60_17
+    21300036: test_spritesheet_60x60_18
+    21300038: test_spritesheet_60x60_19
+    21300040: test_spritesheet_60x60_20
+    21300042: test_spritesheet_60x60_21
+    21300044: test_spritesheet_60x60_22
+    21300046: test_spritesheet_60x60_23
+    21300048: test_spritesheet_60x60_24
+    21300050: test_spritesheet_60x60_25
+    21300052: test_spritesheet_60x60_26
+    21300054: test_spritesheet_60x60_27
+    21300056: test_spritesheet_60x60_28
+    21300058: test_spritesheet_60x60_29
+    21300060: test_spritesheet_60x60_30
+    21300062: test_spritesheet_60x60_31
+    21300064: test_spritesheet_60x60_32
+    21300066: test_spritesheet_60x60_33
+    21300068: test_spritesheet_60x60_34
+    21300070: test_spritesheet_60x60_35
+    21300072: test_spritesheet_60x60_36
+    21300074: test_spritesheet_60x60_37
+    21300076: test_spritesheet_60x60_38
+    21300078: test_spritesheet_60x60_39
+    21300080: test_spritesheet_60x60_40
+    21300082: test_spritesheet_60x60_41
+    21300084: test_spritesheet_60x60_42
+    21300086: test_spritesheet_60x60_43
+    21300088: test_spritesheet_60x60_44
+    21300090: test_spritesheet_60x60_45
+    21300092: test_spritesheet_60x60_46
+    21300094: test_spritesheet_60x60_47
+    21300096: test_spritesheet_60x60_48
+    21300098: test_spritesheet_60x60_49
+    21300100: test_spritesheet_60x60_50
+    21300102: test_spritesheet_60x60_51
+    21300104: test_spritesheet_60x60_52
+    21300106: test_spritesheet_60x60_53
+    21300108: test_spritesheet_60x60_54
+    21300110: test_spritesheet_60x60_55
+    21300112: test_spritesheet_60x60_56
+    21300114: test_spritesheet_60x60_57
+    21300116: test_spritesheet_60x60_58
+    21300118: test_spritesheet_60x60_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: test_spritesheet_60x60_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 452
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 332
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 272
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: test_spritesheet_60x60_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
